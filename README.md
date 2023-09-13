@@ -3,7 +3,7 @@
 
 # Sobre o projeto
 
-https://marciogomes-jr.github.io/positive-vibes/
+https://main--incomparable-blini-1b5cda.netlify.app/
 
 O **Positive Vibes** é a interface de um site simples, criado para testar o aprendizado de HTML5 e CSS com responsividade, foi desenvolvido em aula no programa **Dev Club** com [Rodolfo Mori](https://www.linkedin.com/in/rodolfomori/).
 
